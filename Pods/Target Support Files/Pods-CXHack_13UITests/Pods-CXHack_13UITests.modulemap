@@ -1,0 +1,6 @@
+framework module Pods_CXHack_13UITests {
+  umbrella header "Pods-CXHack_13UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
